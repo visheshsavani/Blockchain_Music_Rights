@@ -157,7 +157,7 @@ For technical support or feature requests:
 
 ## License
 
-This smart contract is released under the MIT License.
+This smart contract is released for the education purpose only.
 
 ## Disclaimer
 
