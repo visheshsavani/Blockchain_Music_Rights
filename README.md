@@ -14,7 +14,7 @@ The MusicCopyrightNFT smart contract provides a decentralized platform for music
 
 The flowchart below outlines the process of creating and verifying a Music Copyright NFT. It begins with the artist uploading music to IPFS storage, followed by minting an NFT, storing the metadata, and verifying ownership. If the process is successful, the NFT is created, and ownership can be transferred or checked.
 
-![Music Copyright NFT Flowchart](Blockchain_Music_Rights\assets\flowchart.png)
+![Music Copyright NFT Flowchart](assets/flowchart.png)
 
 
 ## Technical Architecture
